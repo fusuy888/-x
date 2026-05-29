@@ -1,0 +1,6 @@
+{
+  "name": "盯盘提醒",
+  "description": "专为金融级交易、盯盘、自定义定时与免打扰打造的高级循环提醒系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
